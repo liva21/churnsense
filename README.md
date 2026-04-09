@@ -41,3 +41,11 @@ churnsense/
     ├── api.py        # FastAPI endpoint
     └── dashboard.py  # Streamlit UI
 ```
+
+<img width="2720" height="1592" alt="image" src="https://github.com/user-attachments/assets/14cc8167-50da-4d72-bac1-e0e5883eadc4" />
+<img width="2970" height="1084" alt="image" src="https://github.com/user-attachments/assets/ee4afc23-579b-46b3-ac45-757ee2145a65" />
+<img width="1518" height="1564" alt="image" src="https://github.com/user-attachments/assets/6e4cc61a-198c-45a2-b1a8-29822af4d237" />
+<img width="1340" height="1330" alt="image" src="https://github.com/user-attachments/assets/9fdb2717-b055-47cd-be18-2e97209c7af8" />
+
+
+
